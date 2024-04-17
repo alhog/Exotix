@@ -2,7 +2,7 @@
 
 ***Exotic Basket of Decentralized Applications (dApps) integrated with the Renewable Energy Ecosystem and autonomous rebalancing mechanism***
 
-## Exotic Basket: A Dynamic and Autonomous Portfolio of Decentralized Applications Powered by Renewable Energy
+##### Exotic Basket: A Dynamic and Autonomous Portfolio of Decentralized Applications Powered by Renewable Energy
 
 #### Table of Contents
 
