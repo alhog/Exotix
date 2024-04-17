@@ -393,8 +393,7 @@ To facilitate this analysis, we have created a series of visualizations that ill
 
 **Residential Sector Energy Demand**
 
-The residential sector represents a significant portion of overall energy consumption. By examining the average retail electricity prices for this sector across different census divisions, we can identify regions with potentially higher residential energy demands.
-
+The residential sector represents a significant portion of overall energy consumption.
 ```
 +-----------------------------------------------------------------------+
 |                        Residential Electricity Prices                 |
@@ -440,8 +439,6 @@ The commercial sector, encompassing businesses and commercial establishments, al
 ```
 
 The visualization for commercial electricity prices reveals that the New England and Pacific census divisions exhibit higher prices compared to other regions, suggesting potential high energy demand from the commercial sector in these areas.
-
-Absolutely, let's continue with the regional energy demand analysis by examining the industrial and transportation sectors.
 
 **Industrial Sector Energy Demand**
 
@@ -495,7 +492,7 @@ The transportation sector data reveals higher electricity prices in the New Engl
 
 By analyzing the regional variations in electricity prices across these sectors, we can gain valuable insights into the energy demand patterns and prioritize the implementation of our renewable energy ecosystem in regions or sectors with higher demands or pricing disparities. This targeted approach will ensure efficient resource allocation and maximize the potential benefits of our ecosystem for various stakeholders.
 
-Through the seamless integration of these innovative components and features, the renewable energy ecosystem aims to achieve unparalleled levels of efficiency, sustainability, and profitability. Preliminary estimates suggest an overall energy efficiency improvement of up to 30%, a reduction in greenhouse gas emissions by at least 50%, and the potential for significant revenue generation through energy trading, cryptocurrency mining, and other innovative revenue streams.
+Through the seamless integration of these innovative components and features, the renewable energy ecosystem aims to achieve unparalleled levels of efficiency, sustainability, and profitability. Preliminary estimates suggest an overall energy efficiency improvement of up to ~37%, a reduction in greenhouse gas emissions by at least 50%, and the potential for significant revenue generation through energy trading, cryptocurrency mining, and other innovative revenue streams.
 
 #### Roadmap and Future Developments
 
