@@ -250,7 +250,7 @@ Through the seamless integration of these innovative components and features, th
             │  └───────────┘│   │               │   │  ┌───────────┐│
             │               │   │ ┌-───────────┐│   │  │           ││
             │               │   │ │ PORTFOLIO  ││   │  │ CLOUD     ││
-            │               │   │ │OPTIMIZATION|│   │  │ STORAGE   ││
+            │               │   │ │OPTIMIZATION││   │  │ STORAGE   ││
             │               │   │ └────────-───┘│   │  │           ││
             └───────────────┘   └───────────────┘   │  └───────────┘│
                                                     │  ┌───────────┐│
