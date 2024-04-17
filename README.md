@@ -210,9 +210,9 @@ Through the seamless integration of these innovative components and features, th
                           ┌───────────────┐
                           │               │
                           │    CENTRAL    │
-           ┌─────────────►│     GRID      │◄─────────────┐
-           │              │               │              │
-           ∨              └─────┬─────┬───┘              ∨
+           ┌─────────────►│     GRID      │◄───────────────────┐
+           │              │               │                    │
+           ∨              └─────┬─────┬───┘                    ∨
     ┌───────────────┐           │     │                ┌───────────────┐
     │               │           │     │                │               │
     │   EXOTIC      │           │     │                │   ENERGY      │
@@ -272,7 +272,7 @@ Through the seamless integration of these innovative components and features, th
                                             │
                                       ┌─────┴───-─-─┐
                                       │             │
-                                      │DECENTRALIZED|
+                                      │DECENTRALIZED│
                                       │  ORACLE     │ 
                                       │  NETWORK    │
                                       │             │
