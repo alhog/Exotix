@@ -1,8 +1,8 @@
 # Exotix
 
-##### A Dynamic and Autonomous Portfolio of Decentralized Applications Powered by Renewable Energy
+#### A Dynamic and Autonomous Portfolio of Decentralized Applications Powered by Renewable Energy
 
-#### Table of Contents
+##### Table of Contents
 
 1. [Introduction](#introduction)
 2. [Exotic Basket: Core Concepts](#exotic-basket-core-concepts)
