@@ -270,13 +270,13 @@ Through the seamless integration of these innovative components and features, th
 └─────────────────────────────────────────────────────────────────────┘
                                             ▲
                                             │
-                                      ┌─────┴───-─-─┐
+                                      ┌─────┴───────┐
                                       │             │
                                       │DECENTRALIZED│
                                       │  ORACLE     │ 
                                       │  NETWORK    │
                                       │             │
-                                      └─────┬────--─┘
+                                      └─────┬───────┘
                                             │
                                 ┌───────────┴───────────┐
                                 │                       │
