@@ -227,12 +227,12 @@ The project adheres to privacy best practices and provides users with control ov
                                                     └───────┬───────┘
                                                             │
                                                             ∨
-     ┌────────────────────────────────────────────────────────┐
-     │                                                        │
-     │                        DISTRIBUTED COMPUTING           │
-     │                           & EDGE PROCESSING            │
-     │                                                        │
-     └────────────────────────────────────────────────────────┘
+               ┌─────────────────────────────────────────────────┐
+               │                                                 │
+               │                 DISTRIBUTED COMPUTING           │
+               │                    & EDGE PROCESSING            │
+               │                                                 │
+               └─────────────────────────────────────────────────┘
                                             ▲
                                             │
                                       ┌─────┴───────┐
